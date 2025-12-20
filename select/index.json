@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "スパイス",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-20T03:21:57.433836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スパイス",
+      "artist": "Tokyo Karankoron",
+      "has_synced": true,
+      "path": "select/01_スパイス_Tokyo_Karankoron.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スパイス (アニメ「食戟のソーマ」エンディングサイズ)",
+      "artist": "東京カランコロン",
+      "has_synced": true,
+      "path": "select/02_スパイス_(アニメ「食戟のソーマ」エンディングサイズ)_東京カランコロン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スパイス",
+      "artist": "東京カランコロン",
+      "has_synced": true,
+      "path": "select/03_スパイス_東京カランコロン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spice (Original Instrumental) [スパイス -Original Instrumental-]",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/04_Spice_(Original_Instrumental)_[スパイス_-Original_Instrumental-]_Perfume.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spice [スパイス]",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/05_Spice_[スパイス]_Perfume.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spice [スパイス]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/06_Spice_[スパイス]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スパイス",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/07_スパイス_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スパイス",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/08_スパイス_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スパイス",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/09_スパイス_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スパイス・マジック",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/10_スパイス・マジック_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スパイス・マジック",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/11_スパイス・マジック_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スパイス(フル尺)",
+      "artist": "Tokyo Karankoron",
+      "has_synced": true,
+      "path": "select/12_スパイス(フル尺)_Tokyo_Karankoron.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "シルク・アンド・スパイス",
+      "artist": "Godiego",
+      "has_synced": false,
+      "path": "select/13_シルク・アンド・スパイス_Godiego.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ユニバーサル・スパイス！！！",
+      "artist": "Level Nine, seibin, Shabel Tonya",
+      "has_synced": true,
+      "path": "select/14_ユニバーサル・スパイス!!!_Level_Nine,_seibin,_Shabel_Tonya.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ユニバーサル・スパイス！！！ (Feat. Shabel Tonya)",
+      "artist": "LEVEL NINE",
+      "has_synced": true,
+      "path": "select/15_ユニバーサル・スパイス!!!_(Feat._Shabel_Tonya)_LEVEL_NINE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ユニバーサル・スパイス！！！(Feat. Shabel Tonya)",
+      "artist": "LEVEL NINE",
+      "has_synced": true,
+      "path": "select/16_ユニバーサル・スパイス!!!(Feat._Shabel_Tonya)_LEVEL_NINE.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "スパイス",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/17_スパイス_Perfume.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スパイス",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_スパイス_Saucy_Dog.txt"
+    }
+  ]
+}
